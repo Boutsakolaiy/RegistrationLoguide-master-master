@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Registration Loguide</string>
+    <string name="explain_1">We just sent you an SMS with a code Enter it to verify your phone</string>
+    <string name="explain_2">Did not receive an SMS ? Try again</string>
+</resources>
